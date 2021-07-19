@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yfelo820 Yosmani R. Claro Merino
 - 👀 I’m interested in .Net Core Tech, C# Language,Xamarin Forms, Java for Android Development
-- 🌱 I’m Java for Android
+- 🌱 I’m learning Java for Android
 - 💞️ I’m looking to collaborate on whatever .Net Core or just .donet Tech!!
 - 📫 How to reach me Telegram @Elyosma820, WhatsApp +53 5415 2905 and email: yfelo820@gmail.com
 <!---
